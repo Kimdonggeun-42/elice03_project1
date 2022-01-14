@@ -38,8 +38,8 @@
 
 
   2. 유기동물을 찾아주는 보호 게시판
-  <img src="/uploads/106e1c126fe0976ecca9e5c40888677f/protect1.jpg" width="70%"/>
-  <img src="/uploads/7aa338a18680dc64d39e1f05a45b9429/protect2.jpg" width="70%"/>
+  <img src="https://user-images.githubusercontent.com/75158857/149452452-079a0413-d2c3-4644-9e4d-631e3fbc0d22.jpg" width="70%"/>
+  <img src="https://user-images.githubusercontent.com/75158857/149452690-b4683add-57b3-43ed-b7ad-8b5ea2b92091.jpg" width="70%"/>
 
     - 공공데이터 API를 활용하여 데이터에 등록된 유기동물들의 정보를 찾아줍니다.
     - 조건별로 검색하여 원하는 조건의 동물들을 찾을 수 있습니다.
@@ -47,17 +47,17 @@
 
   - 서브 기능
   1. 메인 페이지
-  <img src="/uploads/4d317538d8cb2378cff1cf28be5d3ec8/main1.png" width="70%"/>
-  <img src="/uploads/0b421193655ed8b87fbcf3f67319bd69/main2.png" width="70%"/>
-  <img src="/uploads/7300ba1d6c626f3176a375f1ab6cb500/main3.png" width="70%"/>  
+  <img src="https://user-images.githubusercontent.com/75158857/149452446-bf0b87e6-0448-48a9-9dff-a63f03c50357.png" width="70%"/>
+  <img src="https://user-images.githubusercontent.com/75158857/149452888-467b6dc9-b7eb-4547-908f-405b8cdd6d4c.png" width="70%"/>  
+  <img src="https://user-images.githubusercontent.com/75158857/149452460-f75f5674-7ec8-4738-bc34-8e324e371887.png" width="70%"/>
 
     - 처음 접속했을 때 보게 되는 메인 페이지입니다. 
     - 간단한 유기동물 통계(어제부터 오늘까지 신고된 수)와 각 게시판의 게시물 미리보기로 최근 6건의 게시물을 확인할 수 있습니다.
 
 
   2. 마이 페이지
-  <img src="/uploads/90c0eaad4c2554851072ce00c365081e/mypage1.png" width="70%"/>
-  <img src="/uploads/528d1fb9b4f351172bff41f34fff7157/mypage2.png" width="70%"/>
+  <img src="https://user-images.githubusercontent.com/75158857/149452458-d5eee449-9ba5-4518-a8ed-0f2b07ff8178.png" width="70%"/>
+  <img src="https://user-images.githubusercontent.com/75158857/149452457-85807595-5c1a-46b0-bdbc-de2e6cd51c89.png" width="70%"/>
 
     - 사용자 편의 관련 페이지입니다. 기존 카카오 프로필에서 가져온 닉네임을 원하는 대로 변경할 수 있습니다.
     - 자신이 쓴 글이나 댓글을 바로 확인할 수 있습니다. 클릭시 해당 게시물로 이동하며, 댓글의 경우 옆에 있는 삭제 버튼 클릭시 바로 삭제됩니다.
