@@ -1,7 +1,7 @@
 # 반려in
 - 유기된 동물들을 사람들과 이어주는 커뮤니티입니다.
 
-![로고](/uploads/acf9b7273003ff1b36232559cfdd2333/로고)
+![로고](https://user-images.githubusercontent.com/75158857/149452454-88d57083-c275-4285-a546-165d0916dbd3.jpg)
 
 ## 프로젝트 구성 안내
 
@@ -29,8 +29,8 @@
   - 주요 기능
   1. 사람들이 자유롭게 소통할 수 있는 반려 게시판
 
-  <img src="/uploads/c0b70a4f3c5e8ec73055bd571b8cab41/commu1.png" width="70%"/>
-  <img src="/uploads/4ec9c34f0a3005a336c13f231d367b91/commu2.jpg" width="70%"/>
+  <img src="https://user-images.githubusercontent.com/75158857/149452453-bbd312e5-a968-432e-98d1-70f357775858.png" width="70%"/>
+  <img src="https://user-images.githubusercontent.com/75158857/149452693-021f95ff-c739-4efa-aae9-28dd5eb57747.jpg" width="70%"/>
 
     - 자신이 입양한 동물들의 사진 등을 공유할 수 있습니다.
     - 찾고자 하는 글이 있다면 작성자, 제목, 내용으로 검색하여 찾을 수 있습니다.
